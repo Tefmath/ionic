@@ -22,9 +22,8 @@ export class AppComponent {
       icon: 'list'
     },
     {
-      title: 'Favorites',
+      title: 'Comentários',
       url: '/favorites',
-      icon: 'favorites'
     }
     
   ];

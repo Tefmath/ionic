@@ -8,5 +8,19 @@ import { Component } from '@angular/core';
 export class HomePage {
 
   constructor() {}
-
+  
+  post:object = {
+		 nomeDoUsuario:'Tef',
+		 texto: 'xabu',
+		 horario: '11:00',
+		 numeroDeLikes: 20,
+		 numeroDeDislikes: 10,
+		 episodioRelacionado: 'Buffy',
+		 respostasDoPost: 'koe',
+		 estadoDoLike: true,
+		 anexo: 'tef.jpg',
+		 quantidadeDeComp: 15
+		 
+		 
+	}
 }
